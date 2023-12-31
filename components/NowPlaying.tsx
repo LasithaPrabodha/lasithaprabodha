@@ -20,7 +20,7 @@ export const Player: React.FC<Props> = ({
   isPlaying,
 }) => {
   return (
-    <ReadmeImg width="540" height="64">
+    <ReadmeImg width="430" height="64">
       <style>
         {`
             .paused { 
@@ -138,7 +138,6 @@ export const Player: React.FC<Props> = ({
           paddingLeft: 4,
         }}
       >
-        <Text style={{ width: '16px', marginRight: '16px' }} size="large" weight="bold">{ isPlaying ? '▶' : '' }</Text>
         <img id="cover" src={cover ?? null} width="48" height="48" />
         <div
           style={{
