@@ -13,7 +13,7 @@ I possess a broad skill set with a primary focus on frontend development, comple
 
 
 --- 
-<a href="https://lasitha-prabodha.vercel.app/now-playing?open"><img src="https://lasitha-prabodha.vercel.app/now-playing"></a>
+<img src="https://lasitha-prabodha.vercel.app/now-playing" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
