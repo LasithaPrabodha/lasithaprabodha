@@ -5,9 +5,8 @@ I am skilled in front-end development and often experiment with back-end develop
 I can handle tight deadlines well, help junior engineers learn, and work well with management.
 
 
-- 🔭 I’m currently working on crafting seamless mobile experiences in my Fanshawe College Mobile Application Development program
 - 🌱 Currently, I'm focused on refining my knowledge of design patterns & algorithms, cloud technologies and native mobile app development
-- 🤔 I am actively seeking a job with a start date in May ro earlier.
+- 🤔 I am actively seeking a job with a start date in May or earlier.
 - 💬 Ask me about anything related to web development, or share your favourite coding joke for a good laugh!
 - 📫 How to reach me: [lasitha.dev](https://www.lasitha.dev/)
 - ⚡ Fun fact: I love Hot Wheels 🔥
