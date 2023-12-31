@@ -39,7 +39,7 @@ export async function nowPlaying(): Promise<Partial<SpotifyApi.CurrentlyPlayingR
     },
   });
   const { status } = response;
-  console.log(response)
+  console.log(response, Authorization)
   if (status === 204) {
     return {};
   } else if (status === 200) {
