@@ -1,6 +1,6 @@
 ### Hi, I am Lasitha 👋
 
-I have worked for six years in areas like travel, hospitality, ERP, and CRM, creating advanced websites and mobile apps. 
+I have worked in areas like travel, hospitality, ERP, and CRM, creating advanced websites and mobile apps for six years. 
 I am skilled in front-end development and often experiment with back-end development using C#.
 
 
