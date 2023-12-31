@@ -27,7 +27,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
 
   const { name: track } = item;
   const { images = [] } = item.album || {};
-
+ 
   const cover = images[images.length - 1]?.url;
   let coverImg = null;
   if (cover) {
