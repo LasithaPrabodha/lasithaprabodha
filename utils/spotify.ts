@@ -27,6 +27,7 @@ async function getAuthorizationToken() {
     body,
   }).then((r) => r.json());
 
+  console.log(response, Authorization)
   return `Bearer ${response.access_token}`;
 }
 
@@ -39,7 +40,7 @@ export async function nowPlaying(): Promise<Partial<SpotifyApi.CurrentlyPlayingR
     },
   });
   const { status } = response;
-  console.log(response, Authorization)
+
   if (status === 204) {
     return {};
   } else if (status === 200) {
