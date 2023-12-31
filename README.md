@@ -13,4 +13,8 @@ I can handle tight deadlines well, help junior engineers learn, and work well wi
 - 📫 How to reach me: [lasitha.dev](https://www.lasitha.dev/)
 - ⚡ Fun fact: I love Hot Wheels 🔥
 
+--- 
 <a href="https://lasitha-prabodha.vercel.app/now-playing?open"><img src="https://lasitha-prabodha.vercel.app/now-playing"></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
