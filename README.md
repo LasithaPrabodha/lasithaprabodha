@@ -7,7 +7,7 @@ I can handle tight deadlines well, help junior engineers learn, and work well wi
 
 - 🔭 I’m currently working on crafting seamless mobile experiences in my Fanshawe College Mobile Application Development program
 - 🌱 Currently, I'm focused on refining my knowledge of design patterns & algorithms, cloud technologies and native mobile app development
-- 🤔 I am actively seeking a job
+- 🤔 I am actively seeking a job with a start date in May ro earlier.
 - 💬 Ask me about anything related to web development, or share your favourite coding joke for a good laugh!
 - 📫 How to reach me: [lasitha.dev](https://www.lasitha.dev/)
 - ⚡ Fun fact: I love Hot Wheels 🔥
