@@ -27,7 +27,7 @@ async function getAuthorizationToken() {
     body,
   }).then((r) => r.json());
 
-  console.log(response, Authorization)
+  console.log(response, Authorization, process.env )
   return `Bearer ${response.access_token}`;
 }
 
