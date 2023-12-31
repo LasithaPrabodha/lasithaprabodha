@@ -11,7 +11,7 @@ I can handle tight deadlines well, help junior engineers learn, and work well wi
 - 📫 How to reach me: [lasitha.dev](https://www.lasitha.dev/)
 - ⚡ Fun fact: I love Hot Wheels 🔥
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasithaPrabodha&layout=compact&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasithaPrabodha&layout=compact&theme=transparent" /></a>
 
 --- 
 <a href="https://lasitha-prabodha.vercel.app/now-playing?open"><img src="https://lasitha-prabodha.vercel.app/now-playing"></a>
