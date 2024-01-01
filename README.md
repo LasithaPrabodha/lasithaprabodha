@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasithaPrabodha&layout=donut&theme=cobalt&hide_border=true&langs_count=10" />
 
 I have worked in areas like travel, hospitality, ERP, and CRM, creating advanced websites and mobile apps for six years. 
-I possess a broad skill set with a primary focus on frontend development, complemented by proficiency in backend development.
+I have a broad skill set with a primary focus on frontend development, complemented by proficiency in backend development.
 
 - 🌱 Currently, I'm focused on refining my knowledge of design patterns & algorithms, cloud technologies and native mobile app development.
 - 🤔 I am actively seeking a job with a start date in May or earlier.
