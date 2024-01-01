@@ -5,7 +5,7 @@
 I have worked in areas like travel, hospitality, ERP, and CRM, creating advanced websites and mobile apps for six years. 
 I possess a broad skill set with a primary focus on frontend development, complemented by proficiency in backend development.
 
-- 🌱 Currently, I'm focused on refining my knowledge of design patterns & algorithms, cloud technologies and native mobile app development.
+- 🌱 Currently, I'm focused on refining my knowledge of design patterns & algorithms, native mobile app development and cloud technologies.
 - 🤔 I am actively seeking a job with a start date in May or earlier.
 - 💬 Ask me about anything related to web development, or share your favourite coding joke for a good laugh!
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lasithapw/">LinkedIn</a> | <a href="https://www.lasitha.dev" target="_blank">lasitha.dev</a> 
