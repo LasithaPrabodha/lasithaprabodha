@@ -20,4 +20,12 @@ I possess a broad skill set with a primary focus on frontend development, comple
 <img src="https://whats-lasitha-now-playing.vercel.app/now-playing" alt="Now Playing"> 
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   14 mins         ███████████████▒░░░░░░░░░   61.41 %
+YAML       4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+HTML       4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
+Git        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+```
+
 <!--END_SECTION:waka-->
