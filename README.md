@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasithaPrabodha&layout=donut&theme=transparent&hide_border=true&langs_count=10" />
 
-I have worked in areas like travel, hospitality, ERP, and CRM, creating advanced websites and mobile apps for six years. 
+I have been creating advanced websites and mobile apps for six years in areas such as travel, hospitality, ERP, and CRM. 
 I possess a broad skill set with a primary focus on frontend development, complemented by proficiency in backend development.
 
 - 🌱 Currently, I'm focused on refining my knowledge of design patterns & algorithms, native mobile app development and cloud technologies.
