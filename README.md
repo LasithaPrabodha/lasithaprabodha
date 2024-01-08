@@ -1,7 +1,7 @@
 ### Hi, I am Lasitha 👋
 
 I have been creating advanced websites and mobile apps for six years in areas such as travel, hospitality, ERP, and CRM. 
-I possess a broad skill set with a primary focus on frontend development, complemented by proficiency in backend development.
+I possess a diverse skill set with a primary focus on frontend development, complemented by proficiency in backend development.
 
 - 🌱 Currently, I'm focused on refining my knowledge of design patterns & algorithms, native mobile app development and cloud technologies.
 - 👨🏻‍💻 I am actively seeking a job with a start date in May or earlier.
