@@ -1,13 +1,11 @@
-### Hi, I am Lasitha 👋
+### Hi there! 👋
 
-I have been creating advanced websites and mobile apps for six years in areas such as travel, hospitality, ERP, and CRM. 
-I have a diverse skill set with a primary focus on frontend development, complemented by proficiency in backend development.
+I'm Lasitha Prabodha Weligampola, a Full Stack and Mobile Engineer with 6+ years of experience. Specializing in Angular/ReactJS and ASP.NET Core, currently enhancing mobile app development skills at Fanshawe College. Let's connect and innovate in tech!
 
-- 🌱 Currently, I'm focused on refining my knowledge of design patterns & algorithms, native mobile app development and cloud technologies.
-- 👨🏻‍💻 I am actively seeking a job with a start date in May or earlier.
-- 💬 Ask me about anything related to web development, or share your favourite coding joke for a good laugh!
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/lasithapw/">LinkedIn</a> | <a href="https://www.lasitha.dev" target="_blank">lasitha.dev</a> 
-- ⚡ Fun fact: I love Hot Wheels! 🔥
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,azure,bash,bootstrap,cs,css,dart,docker,dotnet,figma,firebase,flutter,git,github,html,java,js,jest,jquery,kotlin,kubernetes,laravel,materialui,mysql,nginx,nodejs,php,postman,py,react,reactivex,redux,regex,sass,sqlite,stackoverflow,swift,ts,vercel,visualstudio,vscode,vue,webpack&perline=15)](https://skillicons.dev)
+(What I use to develop solutions)
+
+📫 How to reach me: <a href="https://www.linkedin.com/in/lasithapw/">LinkedIn</a> | <a href="https://www.lasitha.dev" target="_blank">lasitha.dev</a> 
 
 <!--
 #### My Dev Setup
