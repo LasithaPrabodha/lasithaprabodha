@@ -2,7 +2,7 @@
 
 I'm Lasitha Prabodha Weligampola, a Full Stack and Mobile Engineer with 6+ years of experience. Specializing in Angular/ReactJS and ASP.NET Core, currently enhancing mobile app development skills at Fanshawe College. Let's connect and innovate in tech!
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,azure,bash,bootstrap,cs,css,dart,docker,dotnet,figma,firebase,flutter,git,github,html,java,js,jest,jquery,kotlin,kubernetes,laravel,materialui,mysql,nginx,nodejs,php,postman,py,react,reactivex,redux,regex,sass,sqlite,stackoverflow,swift,ts,vercel,visualstudio,vscode,vue,webpack&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,azure,bash,bootstrap,cs,css,dart,docker,dotnet,figma,firebase,flutter,git,github,html,java,js,jest,jquery,kotlin,kubernetes,laravel,materialui,mysql,nginx,nodejs,php,postman,py,react,reactivex,redux,regex,sass,sqlite,swift,ts,vercel,visualstudio,vscode,vue,webpack&perline=15)](https://skillicons.dev)
 (What I use to develop solutions)
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/lasithapw/">LinkedIn</a> | <a href="https://www.lasitha.dev" target="_blank">lasitha.dev</a> 
