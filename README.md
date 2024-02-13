@@ -1,6 +1,12 @@
 ### Hi there! 👋
 
-I'm Lasitha Prabodha Weligampola, a Full Stack and Mobile Engineer with 6+ years of experience. Specializing in Angular/ReactJS and ASP.NET Core, currently enhancing mobile app development skills at Fanshawe College. Let's connect and innovate in tech!
+I'm Lasitha Prabodha Weligampola.
+
+I design and develop engaging web, mobile, and API experiences with Angular, React Native, ASP.NET Core and more.
+
+I'm always eager to bring my skills and enthusiasm for new challenges.
+
+Let's collaborate!
 
 In the past, I have used these technologies to develop solutions.
 
