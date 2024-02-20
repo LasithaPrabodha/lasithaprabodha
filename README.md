@@ -10,7 +10,7 @@ Let's collaborate!
 
 In the past, I have used these technologies to develop solutions.
 
-![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,azure,bash,bootstrap,cs,css,dart,docker,dotnet,figma,firebase,flutter,git,github,html,java,js,jest,jquery,kotlin,kubernetes,laravel,materialui,mysql,nginx,nodejs,php,postman,py,react,reactivex,redux,regex,sass,sqlite,swift,ts,vercel,visualstudio,vscode,vue,webpack&perline=15)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,azure,bash,bootstrap,cs,css,dart,docker,dotnet,figma,firebase,flutter,git,github,html,java,js,jest,jquery,kotlin,kubernetes,laravel,materialui,mysql,nginx,nodejs,php,postman,py,react,reactivex,redux,regex,sass,sqlite,swift,ts,astro,netlify,vercel,visualstudio,vscode,vue,webpack&perline=15)
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/lasithapw/">LinkedIn</a> | <a href="https://www.lasitha.dev" target="_blank">lasitha.dev</a> 
 
