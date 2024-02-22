@@ -8,7 +8,7 @@ I'm always eager to bring my skills and enthusiasm for new challenges.
 
 Let's collaborate!
 
-In the past, I have used these technologies to develop solutions.
+In the past, I have used these technologies and tools to develop solutions.
 
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,azure,bash,bootstrap,cs,css,dart,docker,dotnet,figma,firebase,flutter,git,github,html,java,js,jest,jquery,kotlin,kubernetes,laravel,materialui,mysql,nginx,nodejs,php,postman,py,react,reactivex,redux,regex,sass,sqlite,swift,ts,astro,netlify,vercel,visualstudio,vscode,vue,webpack&perline=15)
 
