@@ -1,12 +1,10 @@
 ### Hi there! 👋
 
-I'm Lasitha Prabodha Weligampola.
+I'm Lasitha Prabodha Weligampola. I currently live in London, ON Canada.
 
 I design and develop engaging web, mobile, and API experiences with Angular, React Native, ASP.NET Core and more.
 
 I'm always eager to bring my skills and enthusiasm for new challenges.
-
-Let's collaborate!
 
 In the past, I have used these technologies and tools to develop solutions.
 
