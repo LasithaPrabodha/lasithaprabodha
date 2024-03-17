@@ -4,6 +4,8 @@ I'm Lasitha Prabodha Weligampola. I currently live in London, ON Canada.
 
 I design and develop engaging web, mobile, and API experiences with Angular, React Native, ASP.NET Core and more.
 
+Currently working on : [MyWallet](https://github.com/LasithaPrabodha/my-wallet)
+
 In the past, I have used these technologies and tools to develop solutions.
 
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,azure,bash,bootstrap,cs,css,dart,docker,dotnet,figma,firebase,flutter,git,github,html,java,js,jest,jquery,kotlin,kubernetes,laravel,materialui,mysql,nginx,nodejs,php,postman,py,react,reactivex,redux,regex,sass,sqlite,swift,ts,astro,netlify,vercel,visualstudio,vscode,vue,webpack&perline=15)
